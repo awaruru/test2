@@ -1,1 +1,12 @@
-{}
+{
+  "game_name": "Test",
+  "game_info": "testing testing",
+  "version": "0.1",
+  "author": "me",
+  "engine": "web",
+  "width": 540,
+  "height": 1000,
+  "maxlines": 36,
+  "linelength": 58,
+  "wordwrap": false
+}
